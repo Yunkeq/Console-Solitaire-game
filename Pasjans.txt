@@ -1,0 +1,44 @@
+1. when i click on the card i check whether this card is already flipped
+if (!flipped){
+	Card.flipp
+	card.UpdateView
+
+
+
+
+ }
+
+
+
+2. if any card is highlighted and then user clicks on the other card => method checks whether card may be placed at this spot
+	1) so i need to compare 2 cards.
+	2) remember the card that is focused and the clicked one.
+	3) 
+
+3.add move 
+
+
+4. if selectedcard is not last => delete list of cards + add list of cards
+
+
+			todo	
+1. think about drag card to the foundation !!!
+2. shuffle   !!!
+3. initialize cards on columns  !!!
+4. think about drag cards from the deck to pile() !!!
+5. deck's pile   !!!
+6. Remove from the pile !!!
+7. gamemanager make good initializing of decks etc
+
+
+			todo
+1. appearance of card
+2.Drawcards method in piles
+3.flip logic
+4.mouseevent. (when click on smth it becomes highlihted)
+5.beautifull colums
+
+			problems
+1.beautiful card ( with centralized tekst. mb with img of rank)
+2.colums
+3.

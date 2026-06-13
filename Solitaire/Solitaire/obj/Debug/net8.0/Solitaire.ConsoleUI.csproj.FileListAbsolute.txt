@@ -1,0 +1,78 @@
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.exe
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.deps.json
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.runtimeconfig.json
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.pdb
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Terminal.Gui.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\fr-FR\Terminal.Gui.resources.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\ja-JP\Terminal.Gui.resources.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\pt-PT\Terminal.Gui.resources.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.GameLogic.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.GameLogic.pdb
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.AssemblyInfo.cs
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitair.6656413C.Up2Date
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\refint\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.pdb
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.genruntimeconfig.cache
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\obj\Debug\net8.0\ref\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\NStack.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\System.Management.dll
+C:\Users\User\Desktop\solitaire\Solitaire\Solitaire\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.exe
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.deps.json
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.runtimeconfig.json
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.pdb
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\NStack.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\System.Management.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Terminal.Gui.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\fr-FR\Terminal.Gui.resources.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\ja-JP\Terminal.Gui.resources.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\pt-PT\Terminal.Gui.resources.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.GameLogic.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.GameLogic.pdb
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.AssemblyInfo.cs
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitair.6656413C.Up2Date
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\refint\Solitaire.ConsoleUI.dll
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.pdb
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.genruntimeconfig.cache
+C:\Users\User\Desktop\solitaire123\Solitaire\Solitaire\obj\Debug\net8.0\ref\Solitaire.ConsoleUI.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.exe
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.deps.json
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.runtimeconfig.json
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.ConsoleUI.pdb
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\NStack.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\System.CodeDom.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\System.Management.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Terminal.Gui.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\fr-FR\Terminal.Gui.resources.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\ja-JP\Terminal.Gui.resources.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\pt-PT\Terminal.Gui.resources.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.GameLogic.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\bin\Debug\net8.0\Solitaire.GameLogic.pdb
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.csproj.AssemblyReference.cache
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.AssemblyInfoInputs.cache
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.AssemblyInfo.cs
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.csproj.CoreCompileInputs.cache
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitair.6656413C.Up2Date
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\refint\Solitaire.ConsoleUI.dll
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.pdb
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\Solitaire.ConsoleUI.genruntimeconfig.cache
+D:\treningc#\other apps\solitaire project\Solitaire\Solitaire\obj\Debug\net8.0\ref\Solitaire.ConsoleUI.dll
