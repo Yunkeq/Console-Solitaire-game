@@ -35,10 +35,10 @@ It replicates the classic Solitaire card game in a terminal environment, focusin
 
 ### Steps
 
-git clone https://github.com/Yunkeq/Console-Solitaire-game.git
-cd "solitaire project/Solitaire"
-dotnet build  
-dotnet run  
+- git clone https://github.com/Yunkeq/Console-Solitaire-game.git
+- cd "solitaire project/Solitaire"
+- dotnet build  
+- dotnet run  
 
 ---
 
