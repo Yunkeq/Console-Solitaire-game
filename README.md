@@ -1,6 +1,4 @@
-
-
-https://github.com/user-attachments/assets/307c10d4-2543-4bd8-b90e-1d2e310a8bdc
+https://github.com/user-attachments/assets/cd63309e-1adc-472c-93cf-7f3104ba072a
 
 # 🃏 Console Solitaire Game (C#)
 
