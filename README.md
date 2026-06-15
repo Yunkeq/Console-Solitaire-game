@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/cd63309e-1adc-472c-93cf-7f3104ba072a
 
 ## 📌 Overview
 
-This project is a **Console-based Solitaire Game** developed in **C#** during the **Gigathon Competition**.  
+This project is a **Console-based Solitaire Game** developed in **C#** during the **Gigathon 2025 Competition**.  
 
 It replicates the classic Solitaire card game in a terminal environment, focusing on object-oriented programming, structured game logic, and interactive console gameplay.
 
